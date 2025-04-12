@@ -2,5 +2,5 @@
 
 Group of 3: 
 - Feras Alsinan 202021580
-- STUDENT2
+- Mana Al Abas  202028780
 - STUDENT3
