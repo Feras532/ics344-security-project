@@ -1,0 +1,12 @@
+admin
+administrator
+root
+user
+guest
+test
+demo
+admin123
+ubuntu
+kali
+vagrant
+msfadmin
